@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.pdb
