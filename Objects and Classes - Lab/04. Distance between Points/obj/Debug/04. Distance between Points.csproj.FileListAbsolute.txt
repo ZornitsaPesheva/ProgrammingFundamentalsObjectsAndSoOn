@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\obj\Debug\04. Distance between Points.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.pdb

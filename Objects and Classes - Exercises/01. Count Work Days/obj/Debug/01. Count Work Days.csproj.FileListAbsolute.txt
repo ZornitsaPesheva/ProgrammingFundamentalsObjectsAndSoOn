@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\bin\Debug\_01.Count_Work_Days.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\bin\Debug\_01.Count_Work_Days.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\bin\Debug\_01.Count_Work_Days.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\obj\Debug\01. Count Work Days.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\obj\Debug\_01.Count_Work_Days.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\01. Count Work Days\obj\Debug\_01.Count_Work_Days.pdb

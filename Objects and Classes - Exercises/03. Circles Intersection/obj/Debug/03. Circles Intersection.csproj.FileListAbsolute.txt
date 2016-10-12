@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

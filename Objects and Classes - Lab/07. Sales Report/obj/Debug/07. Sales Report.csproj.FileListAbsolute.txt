@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

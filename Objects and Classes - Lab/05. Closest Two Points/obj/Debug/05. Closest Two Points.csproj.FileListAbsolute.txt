@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentals\Objects and Classes - Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb
