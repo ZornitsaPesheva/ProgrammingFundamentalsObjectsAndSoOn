@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\bin\Debug\_01.Odd_Lines.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\obj\Debug\01. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\obj\Debug\_01.Odd_Lines.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\01. Odd Lines\obj\Debug\_01.Odd_Lines.pdb
