@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\bin\Debug\_04.Merge_Files.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\bin\Debug\_04.Merge_Files.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\bin\Debug\_04.Merge_Files.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\obj\Debug\04. Merge Files.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\obj\Debug\_04.Merge_Files.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\04. Merge Files\obj\Debug\_04.Merge_Files.pdb
