@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\bin\Debug\_05.Folder_Size.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\bin\Debug\_05.Folder_Size.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\bin\Debug\_05.Folder_Size.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\obj\Debug\05. Folder Size.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\obj\Debug\_05.Folder_Size.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Files and Directories - Lab\05. Folder Size\obj\Debug\_05.Folder_Size.pdb
