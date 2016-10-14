@@ -38,7 +38,7 @@ namespace _06.BookLibraryModification
             var dict = new SortedDictionary<string, DateTime>();
             foreach (var book in books)
             {
-                if (book.ReleaseDate >= givenDate)
+                if (book.ReleaseDate > givenDate)
                 {
                     if (!dict.ContainsKey(book.Title) ||
                         dict[book.Title] < givenDate)
