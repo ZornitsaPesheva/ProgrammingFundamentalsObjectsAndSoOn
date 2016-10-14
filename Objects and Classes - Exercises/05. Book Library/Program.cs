@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 
 namespace _05.Book_Library
@@ -32,13 +30,24 @@ namespace _05.Book_Library
                 library.ListOfBooks = books;
                  
             }
-            var result = books;
-                //.Select(b => b.Sum(x => x.Price))
-                //.OrderByDescending(b => b)
-              //  .GroupBy(b => b.Author);
+            var dict = new SortedDictionary<string, double>();
+            foreach (var book in books)
+            {
+                if (dict.ContainsKey(book.Author))
+                {
+                    dict[book.Author] += book.Price; 
+                }
+               else
+                {
+                    dict[book.Author] = book.Price;
+                }
+            }
+             var result = dict.OrderByDescending(b => b.Value)
+                .ThenBy(b => b.Key);
+
             foreach (var r in result)
             {
-                Console.WriteLine($"{r.Author} -> {r.Price}");
+                Console.WriteLine($"{r.Key} -> {r.Value:f2}");
             }
         }
     }
