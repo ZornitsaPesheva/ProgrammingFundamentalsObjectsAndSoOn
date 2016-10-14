@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\bin\Debug\_06.BookLibraryModification.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\obj\Debug\_06.BookLibraryModification.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\obj\Debug\_06.BookLibraryModification.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\06. BookLibraryModification\obj\Debug\06. BookLibraryModification.csprojResolveAssemblyReference.cache
