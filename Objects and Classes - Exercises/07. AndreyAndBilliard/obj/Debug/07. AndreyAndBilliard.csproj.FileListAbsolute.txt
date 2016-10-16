@@ -1,0 +1,6 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\obj\Debug\07. AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.pdb
