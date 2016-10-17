@@ -46,18 +46,37 @@ namespace _07.AndreyAndBilliard
             }
 
             var total = 0.0;
-
-                foreach (var cl in clients.OrderBy(c => c.Name))
+            List<string> listOfClients = clients.OrderBy(c => c.Name).Select(c => c.Name).Distinct().ToList();
+            foreach (var cl in listOfClients)
+            {
+                var bill = 0.0;
+                Console.WriteLine(cl);
+                Dictionary<string, double> ordersByClient = new Dictionary<string, double>();
+                for (int i = 0; i < clients.Count; i++)
                 {
-                    Console.WriteLine(cl.Name);
-                    Console.WriteLine($"-- {cl.Product} - {cl.Number}");
-                    var bill = cl.Number * entities[cl.Product];
-
-                    total += bill;
-
-                    Console.WriteLine($"Bill: {bill:f2}");
+                    if (clients[i].Name == cl)
+                    {
+                        if (!ordersByClient.ContainsKey(clients[i].Product))
+                        {
+                            ordersByClient[clients[i].Product] = clients[i].Number;
+                        }
+                        else
+                        {
+                            ordersByClient[clients[i].Product] += clients[i].Number;
+                        }
+                    }
                 }
-                Console.WriteLine($"Total bill: {total:f2}");
+                foreach (var obc in ordersByClient)
+                {
+                    Console.WriteLine($"-- {obc.Key} - {obc.Value}");
+                    bill += obc.Value * entities[obc.Key];
+                }
+             
+                total += bill;
+              
+               Console.WriteLine($"Bill: {bill:f2}");
+            }
+            Console.WriteLine($"Total bill: {total:f2}");
         }
     }
 
