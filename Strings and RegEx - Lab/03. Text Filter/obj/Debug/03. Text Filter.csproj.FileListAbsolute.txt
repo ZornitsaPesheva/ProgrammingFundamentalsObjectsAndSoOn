@@ -1,1 +1,5 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb
