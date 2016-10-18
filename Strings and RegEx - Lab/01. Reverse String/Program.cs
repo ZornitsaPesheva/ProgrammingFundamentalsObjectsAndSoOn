@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 
 namespace _01.Reverse_String
 {
@@ -7,15 +9,16 @@ namespace _01.Reverse_String
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            string reversed = Reverse(input);
-            Console.WriteLine(reversed);
+            string reverced = string.Join("", input.Reverse());
+            // string reversed = Reverse(input);
+            Console.WriteLine(reverced);
         }
 
-        public static string Reverse(string s)
-        {
-            char[] charArray = s.ToCharArray();
-            Array.Reverse(charArray);
-            return new string(charArray);
-        }
+        //public static string Reverse(string s)
+        //{
+        //    char[] charArray = s.ToCharArray();
+        //    Array.Reverse(charArray);
+        //    return new string(charArray);
+        //}
     }
 }

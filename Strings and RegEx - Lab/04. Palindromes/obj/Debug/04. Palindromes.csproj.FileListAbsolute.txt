@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\obj\Debug\04. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\obj\Debug\_04.Palindromes.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\04. Palindromes\obj\Debug\_04.Palindromes.pdb
