@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb
