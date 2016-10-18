@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\bin\Debug\_08.MentorGroup.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\bin\Debug\_08.MentorGroup.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\bin\Debug\_08.MentorGroup.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\obj\Debug\08. MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\obj\Debug\_08.MentorGroup.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Objects and Classes - Exercises\08. MentorGroup\obj\Debug\_08.MentorGroup.pdb
