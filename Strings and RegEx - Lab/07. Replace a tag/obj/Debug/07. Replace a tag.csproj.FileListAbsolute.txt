@@ -1,0 +1,5 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.pdb
