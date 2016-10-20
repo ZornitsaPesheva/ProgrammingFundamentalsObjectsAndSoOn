@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\04. Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb
