@@ -1,0 +1,1 @@
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config

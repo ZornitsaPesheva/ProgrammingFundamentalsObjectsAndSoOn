@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb

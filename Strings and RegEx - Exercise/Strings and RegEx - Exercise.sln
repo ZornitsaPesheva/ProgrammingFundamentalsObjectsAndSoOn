@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Unicode Characters", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Character Multiplier", "04. Character Multiplier\04. Character Multiplier.csproj", "{377B657A-9F8E-4EF3-8786-AC093B84FF12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Magic exchangeable words", "05. Magic exchangeable words\05. Magic exchangeable words.csproj", "{DD7CF766-FF90-41A6-85F4-751063DA77EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{377B657A-9F8E-4EF3-8786-AC093B84FF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377B657A-9F8E-4EF3-8786-AC093B84FF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377B657A-9F8E-4EF3-8786-AC093B84FF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7CF766-FF90-41A6-85F4-751063DA77EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7CF766-FF90-41A6-85F4-751063DA77EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7CF766-FF90-41A6-85F4-751063DA77EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7CF766-FF90-41A6-85F4-751063DA77EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
