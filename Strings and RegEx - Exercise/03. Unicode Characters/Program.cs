@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace _03.Unicode_Characters
 {
@@ -10,6 +7,14 @@ namespace _03.Unicode_Characters
     {
         static void Main(string[] args)
         {
+            string input = Console.ReadLine();
+            StringBuilder result = new StringBuilder();
+            for (int i = 0; i < input.Length; i++)
+            {
+                result.AppendFormat("\\u{0:x4}", (int)(input[i]));
+            }
+
+            Console.WriteLine(result);
         }
     }
 }

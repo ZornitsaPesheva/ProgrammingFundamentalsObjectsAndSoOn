@@ -1,1 +1,5 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb
