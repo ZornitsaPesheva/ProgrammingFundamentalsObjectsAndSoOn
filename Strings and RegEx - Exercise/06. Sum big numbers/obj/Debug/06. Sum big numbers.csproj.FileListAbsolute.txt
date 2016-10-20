@@ -1,1 +1,6 @@
 C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\obj\Debug\06. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+C:\Users\zorry\Documents\Visual Studio 2015\Projects\ProgrammingFundamentalsObjectsAndSoOn\Strings and RegEx - Exercise\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb
